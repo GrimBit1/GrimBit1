@@ -13,9 +13,6 @@ You can click the Preview link to take a look at your changes.
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"/>  
  </a>
 
-  <a href="https://github.com/grimbit1/">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa"/>
-</a>
  <a href="https://github.com/grimbit1/">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60"/>
 </a>
