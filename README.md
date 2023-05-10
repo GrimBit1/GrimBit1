@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60"/>
 </a>
 
-<a href="https://github.com/grimbit1/">
+<a href="https://github.com/grimbit1/javascript">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c"/>
 </a>
 <a href="https://github.com/grimbit1/">
@@ -25,6 +25,9 @@ You can click the Preview link to take a look at your changes.
 </a>
 <a href="https://github.com/grimbit1/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github"/>
+</a>
+ <a href="https://github.com/grimbit1/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go&svgfill=f6df1c"/>
 </a>
 </p>
 
