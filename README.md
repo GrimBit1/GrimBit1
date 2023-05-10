@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github"/>
 </a>
  <a href="https://github.com/grimbit1/">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go&svgfill=f6df1c"/>
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go&svgfill=87CEEB"/>
 </a>
 </p>
 
