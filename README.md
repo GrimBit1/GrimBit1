@@ -25,6 +25,9 @@ You can click the Preview link to take a look at your changes.
  <a href="https://github.com/grimbit1/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go&svgfill=87CEEB"/>
 </a>
+ <a href="https://github.com/grimbit1/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=6c99b3"/>
+</a>
 </p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=grimbit1&count_private=true&show_icons=true&include_all_commits=true)
