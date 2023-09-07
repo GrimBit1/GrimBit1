@@ -35,4 +35,4 @@ You can click the Preview link to take a look at your changes.
 ![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=21695531&theme=dark)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=grimbit1.grimbit1)
-<a href="https://www.linkedin.com/in/dennis-hartrampf"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/aditya-nandwana"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
