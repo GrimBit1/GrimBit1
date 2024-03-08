@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=6c99b3"/>
 </a>
 <a href="https://github.com/grimbit1/">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=2b99ee&logo=docker&svgfill=white"/>
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2b99ee"/>
 </a>
 </p>
 
